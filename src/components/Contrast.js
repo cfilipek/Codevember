@@ -10,7 +10,7 @@ class Contrast extends Component {
         < Navbar />
         <div className='container'>
           <div className="projects">
-            <h2 className="title">Press hover over center of circles for surprise.</h2>
+            <h2 className="title">hover over center of circles for a surprise.</h2>
             <Row>
               <Col md={2}>
                 <div className="circle"></div>

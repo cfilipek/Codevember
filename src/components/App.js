@@ -21,7 +21,7 @@ class App extends Component {
                 </Link>
               </Col>
               <Col md={3}>
-              <Link className="hover-opacity">
+              <Link className="hover-opacity" to="/geometric">
                   <div className="box">
                     <h3 className="white-text less-margin-text"># 02</h3>
                     <h3 className="white-text">Geometric</h3>
