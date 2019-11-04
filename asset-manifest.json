@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Codevember/static/css/main.78ee7621.chunk.css",
-    "main.js": "/Codevember/static/js/main.31a206d7.chunk.js",
-    "main.js.map": "/Codevember/static/js/main.31a206d7.chunk.js.map",
+    "main.css": "/Codevember/static/css/main.d39694f2.chunk.css",
+    "main.js": "/Codevember/static/js/main.d2a78d92.chunk.js",
+    "main.js.map": "/Codevember/static/js/main.d2a78d92.chunk.js.map",
     "runtime-main.js": "/Codevember/static/js/runtime-main.e4c59e88.js",
     "runtime-main.js.map": "/Codevember/static/js/runtime-main.e4c59e88.js.map",
-    "static/js/2.eed029c1.chunk.js": "/Codevember/static/js/2.eed029c1.chunk.js",
-    "static/js/2.eed029c1.chunk.js.map": "/Codevember/static/js/2.eed029c1.chunk.js.map",
+    "static/js/2.05afe1c0.chunk.js": "/Codevember/static/js/2.05afe1c0.chunk.js",
+    "static/js/2.05afe1c0.chunk.js.map": "/Codevember/static/js/2.05afe1c0.chunk.js.map",
     "index.html": "/Codevember/index.html",
-    "precache-manifest.67e5e155eb7c1f0c4d0c1c08d95fa129.js": "/Codevember/precache-manifest.67e5e155eb7c1f0c4d0c1c08d95fa129.js",
+    "precache-manifest.94819e064ccbc2b40b323829e1c2f944.js": "/Codevember/precache-manifest.94819e064ccbc2b40b323829e1c2f944.js",
     "service-worker.js": "/Codevember/service-worker.js",
-    "static/css/main.78ee7621.chunk.css.map": "/Codevember/static/css/main.78ee7621.chunk.css.map"
+    "static/css/main.d39694f2.chunk.css.map": "/Codevember/static/css/main.d39694f2.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.e4c59e88.js",
-    "static/js/2.eed029c1.chunk.js",
-    "static/css/main.78ee7621.chunk.css",
-    "static/js/main.31a206d7.chunk.js"
+    "static/js/2.05afe1c0.chunk.js",
+    "static/css/main.d39694f2.chunk.css",
+    "static/js/main.d2a78d92.chunk.js"
   ]
 }
