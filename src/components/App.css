@@ -3,6 +3,16 @@ body {
   background-color: black;
 }
 
+a {
+  text-decoration: none !important;
+  opacity: 1;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -ms-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
 /* navbar styling */
 
 .margin-right-nav {
@@ -24,7 +34,15 @@ body {
 .white-text {
   color: white;
   text-align: center;
-  margin-top: 75px;
+  margin-top: 45px;
+}
+
+.box:hover{
+  opacity: 0.5;
+}
+
+.less-margin-text{
+  margin-top: 30px;
 }
 
 
