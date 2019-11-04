@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Codevember/static/css/main.78ee7621.chunk.css",
-    "main.js": "/Codevember/static/js/main.24264fa1.chunk.js",
-    "main.js.map": "/Codevember/static/js/main.24264fa1.chunk.js.map",
+    "main.js": "/Codevember/static/js/main.89bf156a.chunk.js",
+    "main.js.map": "/Codevember/static/js/main.89bf156a.chunk.js.map",
     "runtime-main.js": "/Codevember/static/js/runtime-main.e4c59e88.js",
     "runtime-main.js.map": "/Codevember/static/js/runtime-main.e4c59e88.js.map",
     "static/js/2.e33b0c8c.chunk.js": "/Codevember/static/js/2.e33b0c8c.chunk.js",
     "static/js/2.e33b0c8c.chunk.js.map": "/Codevember/static/js/2.e33b0c8c.chunk.js.map",
     "index.html": "/Codevember/index.html",
-    "precache-manifest.2a3661d5c88518fee439a898b473abe9.js": "/Codevember/precache-manifest.2a3661d5c88518fee439a898b473abe9.js",
+    "precache-manifest.d4ef5761aad35e23453a78edfaaebbec.js": "/Codevember/precache-manifest.d4ef5761aad35e23453a78edfaaebbec.js",
     "service-worker.js": "/Codevember/service-worker.js",
     "static/css/main.78ee7621.chunk.css.map": "/Codevember/static/css/main.78ee7621.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.e4c59e88.js",
     "static/js/2.e33b0c8c.chunk.js",
     "static/css/main.78ee7621.chunk.css",
-    "static/js/main.24264fa1.chunk.js"
+    "static/js/main.89bf156a.chunk.js"
   ]
 }
