@@ -3,3 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Codevember Project
 
 Will attempt to update with new prompts daily for November: [Codevember](http://codevember.xyz/)
+
+---
+permalink: /index.html
+---
