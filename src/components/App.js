@@ -13,7 +13,7 @@ class App extends Component {
           <div className="projects">
             <Row>
               <Col md={3}>
-                <Link className="hover-opacity">
+                <Link className="hover-opacity" to="/contrast">
                   <div className="box">
                     <h3 className="white-text less-margin-text"># 01</h3>
                     <h3 className="white-text">Contrast</h3>

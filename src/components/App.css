@@ -22,13 +22,16 @@ a {
 /* app.js styling */
 
 .projects {
-  margin-top: 150px;
+  padding-top: 150px;
+  margin: 0 auto;
+  display: block;
 }
 
 .box {
   width: 200px;
   height: 200px;
   border: 2px solid white;
+  margin: 0 auto;
 }
 
 .white-text {
@@ -45,4 +48,44 @@ a {
   margin-top: 30px;
 }
 
+/* contrast page styling */
 
+.circle {
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.circle:hover {
+  animation-name: stretch;
+  animation-duration: 1.5s;
+  animation-timing-function: ease-out;
+  animation-delay: 0s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+@keyframes stretch {
+  0% {
+    transform: scale(.3);
+    background-color: red;
+    border-radius: 100%;
+  }
+  50% {
+    background-color: orange;
+  }
+  100% {
+    transform: scale(1.5);
+    background-color: yellow;
+  }
+}
+
+.title {
+  text-align: center;
+  color: white;
+  margin-bottom: 150px;
+}

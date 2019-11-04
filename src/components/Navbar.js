@@ -8,7 +8,7 @@ class Navigation extends Component {
     return (
       <div>
   <Navbar bg="dark" variant="dark">
-    <Navbar.Brand className = "margin-right-nav" href="#home">{codevember}</Navbar.Brand>
+    <Navbar.Brand className = "margin-right-nav" href="/">{codevember}</Navbar.Brand>
     <Nav className="mr-auto">
       <Nav.Link href="#home">About</Nav.Link>
       <Nav.Link href="#features">Mission</Nav.Link>
