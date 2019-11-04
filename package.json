@@ -10,12 +10,13 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0"
   },
-  "homepage": "https://cfilipek.github.io/Codevember",
+  "homepage": "https://cfilipek.github.io/Codevember/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "mv build/* ./* && rmdir build"
   },
   "eslintConfig": {
