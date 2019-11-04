@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Codevember/static/css/main.7f232cc7.chunk.css",
-    "main.js": "/Codevember/static/js/main.fb1272b6.chunk.js",
-    "main.js.map": "/Codevember/static/js/main.fb1272b6.chunk.js.map",
-    "runtime-main.js": "/Codevember/static/js/runtime-main.e4c59e88.js",
-    "runtime-main.js.map": "/Codevember/static/js/runtime-main.e4c59e88.js.map",
-    "static/js/2.8d208f4a.chunk.js": "/Codevember/static/js/2.8d208f4a.chunk.js",
-    "static/js/2.8d208f4a.chunk.js.map": "/Codevember/static/js/2.8d208f4a.chunk.js.map",
-    "index.html": "/Codevember/index.html",
-    "precache-manifest.bfd3cc28dd3e50df7c03ebeed4f5e63a.js": "/Codevember/precache-manifest.bfd3cc28dd3e50df7c03ebeed4f5e63a.js",
-    "service-worker.js": "/Codevember/service-worker.js",
-    "static/css/main.7f232cc7.chunk.css.map": "/Codevember/static/css/main.7f232cc7.chunk.css.map"
+    "main.css": "./static/css/main.7f232cc7.chunk.css",
+    "main.js": "./static/js/main.fb1272b6.chunk.js",
+    "main.js.map": "./static/js/main.fb1272b6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d057aa37.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d057aa37.js.map",
+    "static/js/2.8d208f4a.chunk.js": "./static/js/2.8d208f4a.chunk.js",
+    "static/js/2.8d208f4a.chunk.js.map": "./static/js/2.8d208f4a.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.44d9e0765e8f03e814dd9506b036142d.js": "./precache-manifest.44d9e0765e8f03e814dd9506b036142d.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.7f232cc7.chunk.css.map": "./static/css/main.7f232cc7.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4c59e88.js",
+    "static/js/runtime-main.d057aa37.js",
     "static/js/2.8d208f4a.chunk.js",
     "static/css/main.7f232cc7.chunk.css",
     "static/js/main.fb1272b6.chunk.js"
