@@ -1,0 +1,30 @@
+body {
+  height: 100vh;
+  background-color: black;
+}
+
+/* navbar styling */
+
+.margin-right-nav {
+  margin-left: 50px;
+}
+
+/* app.js styling */
+
+.projects {
+  margin-top: 150px;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  border: 2px solid white;
+}
+
+.white-text {
+  color: white;
+  text-align: center;
+  margin-top: 75px;
+}
+
+
