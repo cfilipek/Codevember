@@ -5,6 +5,7 @@ import App from './components/App';
 import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import Contrast from './components/Contrast';
 import Geometric from './components/Geometric';
+import Deep from './components/Deep';
 
 
 const Root = () => (
@@ -13,6 +14,8 @@ const Root = () => (
       <Route exact path="/" component={App} />
       <Route path="/contrast" component={Contrast} />
       <Route path="/geometric" component={Geometric} />
+      <Route path="/deep" component={Deep} />
+
     </Switch>
   </Router>
 );

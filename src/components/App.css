@@ -102,4 +102,16 @@ a {
   margin-top: 100px;
 }
 
+/* deep styling */
 
+.imageBox {
+  width: 100vw;
+  height: 100vh;
+  background: url('https://i.imgur.com/Vy2CmN0.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.center-button {
+  margin-left: 80px;
+}
