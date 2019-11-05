@@ -37,7 +37,7 @@ class App extends Component {
                 </Link>
               </Col>
               <Col md={3}>
-              <Link className="hover-opacity">
+              <Link className="hover-opacity" to="/big">
                   <div className="box">
                     <h3 className="white-text less-margin-text"># 04</h3>
                     <h3 className="white-text">Big</h3>
